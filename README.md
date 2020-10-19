@@ -36,4 +36,4 @@ npm start
 
 ## :scroll: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/mauriciogirardi/Github-explore/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/mauriciogirardi/github-api-test/blob/master/LICENSE">LICENSE</a> para mais detalhes.
